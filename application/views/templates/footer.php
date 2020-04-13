@@ -1,8 +1,4 @@
-<br>
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalScrollable">
-  Botón modal
-</button>
-<br>
+
 <br>
 
 
@@ -16,6 +12,18 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
       <div class="modal-body">
 ¿En qué consiste el subsidio a la Tenencia 2020?
 Si eres persona física o jurídica colectiva no lucrativa y tu vehículo tiene un valor factura menor a 400 mil pesos sin IVA para autos, y un valor factura menor a 115 mil pesos sin IVA para motocicletas, y te encuentras al corriente, o bien, adeudas el ejercicio fiscal 2019 y te pones al corriente, paga sólo el refrendo.
@@ -38,15 +46,7 @@ Los contribuyentes propietarios de vehículos de servicio particular con placas 
 	
 
 
-<div class="list-group">
-  <a href="#" class="list-group-item list-group-item-action active">
-    Cras justo odio
-  </a>
-  <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
-  <a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
-  <a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
-  <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">Vestibulum at eros</a>
-</div>
+
 
 </section>
 
